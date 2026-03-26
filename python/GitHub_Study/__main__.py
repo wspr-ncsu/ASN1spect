@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Optional
 
 import click
-from ASN1nspect import (IOS, AngrProject, ASN1AngrProject, BinaryLoader,
+from ASN1spect import (IOS, AngrProject, ASN1AngrProject, BinaryLoader,
                         Checkpoint, ParserReplacer, TypeParser)
 from GitHub_Study.GitHubAnalysis import GitHubAnalysis
 from GitHub_Study.GitHubClone import GitHubClone

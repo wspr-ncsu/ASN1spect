@@ -7,13 +7,13 @@ import os
 import sys
 from typing import Optional, Dict, Any
 
-from ASN1nspect import ASN1AngrProject
-from ASN1nspect.asn1c.Type import asn_type
-from ASN1nspect.Analysis.Analysis import Analysis
-from ASN1nspect.Analysis.NonEnforcedConstraintAnalysis import NonEnforcedConstraintAnalysis
+from ASN1spect import ASN1AngrProject
+from ASN1spect.asn1c.Type import asn_type
+from ASN1spect.Analysis.Analysis import Analysis
+from ASN1spect.Analysis.NonEnforcedConstraintAnalysis import NonEnforcedConstraintAnalysis
 
 # Import other analysis classes here if they exist
-# from ASN1nspect.Analysis.SomeOtherAnalysis import SomeOtherAnalysis
+# from ASN1spect.Analysis.SomeOtherAnalysis import SomeOtherAnalysis
 
 
 # Example of creating a custom analysis and registering it

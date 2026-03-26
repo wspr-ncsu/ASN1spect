@@ -1,10 +1,10 @@
 import traceback
 from collections import defaultdict
 
-from ASN1nspect.ComparisonStrategies import ASN1CConstraintComparison
-from ASN1nspect.FieldMatchers.ASN1CFieldMatcherStrategy import \
+from ASN1spect.ComparisonStrategies import ASN1CConstraintComparison
+from ASN1spect.FieldMatchers.ASN1CFieldMatcherStrategy import \
     ASN1CFieldMatcherStrategy
-from ASN1nspect.Analysis.Analysis import Analysis
+from ASN1spect.Analysis.Analysis import Analysis
 
 class ProjectComparator:
 	"""
