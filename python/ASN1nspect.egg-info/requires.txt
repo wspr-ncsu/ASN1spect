@@ -1,0 +1,14 @@
+angr
+arpy
+cxxfilt
+cxxheaderparser
+pytest
+z3-solver
+click
+redis
+unicorn
+setuptools
+tqdm
+fasteners
+pygithub
+requests

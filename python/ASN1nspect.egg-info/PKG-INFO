@@ -1,0 +1,25 @@
+Metadata-Version: 2.2
+Name: ASN1nspect
+Version: 0.0.0
+Summary: A tool to identify vulnerabilities in asn1c generated code
+Home-page: https://github.com/swthorn/ASN1nspect
+Author: Seaver Thorn
+Author-email: swthorn@ncsu.edu
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: angr
+Requires-Dist: arpy
+Requires-Dist: cxxfilt
+Requires-Dist: cxxheaderparser
+Requires-Dist: pytest
+Requires-Dist: z3-solver
+Requires-Dist: click
+Requires-Dist: redis
+Requires-Dist: unicorn
+Requires-Dist: setuptools
+Requires-Dist: tqdm
+Requires-Dist: fasteners
+Requires-Dist: pygithub
+Requires-Dist: requests
+
+# TODO

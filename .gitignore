@@ -1,0 +1,12 @@
+*.pyc
+*__pycache__
+*.lock
+*.pickle
+*.bin
+*.json
+.vscode/*
+.history/*
+.cursorignore
+venv/*
+python/compile_asn1c.sh
+python/asn1c_output.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+ASN1nspect = ASN1nspect.__main__:main
+GitHub_Study = GitHub_Study.__main__:main
